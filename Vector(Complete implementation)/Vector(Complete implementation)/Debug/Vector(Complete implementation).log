@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/10/20 21:27:26。
+     1>项目“D:\Documents\Visual Studio 2013\Projects\八月的雨\Vector(Complete implementation)\Vector(Complete implementation)\Vector(Complete implementation).vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\AE\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt vector.cpp
+         vector.cpp
+     1>d:\documents\visual studio 2013\projects\八月的雨\vector(complete implementation)\vector(complete implementation)\vector.cpp(127): error C2064: 项不会计算为接受 0 个参数的函数
+                 d:\documents\visual studio 2013\projects\八月的雨\vector(complete implementation)\vector(complete implementation)\vector.cpp(126): 编译类 模板 成员函数“int *lth::vector<int>::end(void)”时
+                 d:\documents\visual studio 2013\projects\八月的雨\vector(complete implementation)\vector(complete implementation)\vector.cpp(163): 参见对正在编译的函数 模板 实例化“int *lth::vector<int>::end(void)”的引用
+                 d:\documents\visual studio 2013\projects\八月的雨\vector(complete implementation)\vector(complete implementation)\vector.cpp(155): 参见对正在编译的类 模板 实例化“lth::vector<int>”的引用
+     1>已完成生成项目“D:\Documents\Visual Studio 2013\Projects\八月的雨\Vector(Complete implementation)\Vector(Complete implementation)\Vector(Complete implementation).vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.26
